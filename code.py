@@ -1,5 +1,5 @@
 [200~#Initialize array     
-        arr = [25, 11, 7, 75, 56];     
+        arr = [25, 11, 7, 75, 56,2];     
              
         #Initialize min with the first element of the array.    
             
